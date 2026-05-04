@@ -1,4 +1,3 @@
-# Serverless Expense Tracker
 # serverless finance tracker
 
 A production-ready starter Expense Tracker built with the standard AWS serverless pattern:
